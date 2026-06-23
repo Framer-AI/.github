@@ -79,7 +79,7 @@ Framer is a strong choice for designers, founders, agencies, and marketing teams
 
 Users comparing framer website builder options often care about visual quality, speed, and control. Framer works well when the site needs refined motion, clean responsive behavior, and quick iteration. It is also useful for people exploring framer ai website workflows because AI can provide momentum while the editor still gives the user final design authority.
 
-![Responsive Framer website editor showing a portfolio page, CMS panel, and launch preview](https://s3-alpha.figma.com/hub/file/4798323031/78dcf55a-95bb-474a-b40a-d90d446c91e8-cover.png)
+![Responsive Framer website editor showing a portfolio page, CMS panel, and launch preview](https://framerusercontent.com/images/zFzHDUqRJisdOQFJByoTor4yJ4.png?width=2200&height=1600)
 
 ## Practical Questions and Fixes
 
